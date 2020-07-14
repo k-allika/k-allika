@@ -4,7 +4,7 @@
 [![ms_badge](https://img.shields.io/badge/No%20to-Microsoft-blue?style=for-the-badge)](#)  
 
 #### Moved my projects to GitLab
-[![gl_badge](https://img.shields.io/badge/Go%20to-GitLab-orange?style=for-the-badge)](https://gitlab.com/allika) Moved my projects to GitLab
+[![gl_badge](https://img.shields.io/badge/Go%20to-GitLab-orange?style=for-the-badge)](https://gitlab.com/allika)
 
 
 
